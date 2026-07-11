@@ -12,7 +12,7 @@ public class ArraEelementSum {
             arr[i]=sc.nextInt();
             sum=sum+arr[i];
         }
-        System.out.println("Sum of all elemrnts of array is "+sum);
+        System.out.println("Sum of all elemrnts of array is :"+sum);
 
     }
 }
