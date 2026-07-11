@@ -12,7 +12,7 @@ public class ArrayAvg {
             arr[i]=sc.nextInt();
             sum=sum+arr[i];
         } 
-       System.out.println("Average of elements in array is "+ Average(sum, arr.length));
+       System.out.println("Average of all the elements in array is "+ Average(sum, arr.length));
     }
 static int Average(int sum,int length){
     int Avg=sum/length;
