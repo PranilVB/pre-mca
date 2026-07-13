@@ -4,7 +4,7 @@ public class ArrayAvg {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter no. of elements");
         int[] arr=new int[sc.nextInt()];
-        System.out.println("enter the elements");
+        System.out.println("enter the elements :");
         int sum=0;
         System.out.println(arr.length);
 
