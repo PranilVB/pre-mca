@@ -66,6 +66,6 @@ public class SplitArrayLargestSum {
         int[] nums = {7, 2, 5, 10, 8};
         int k = 2;
 
-        System.out.println("Minimum Largest Sum = " + splitArray(nums, k));
+        System.out.println("Minimum Largest Sum : " + splitArray(nums, k));
     }
 }
