@@ -1,10 +1,7 @@
 # Java compiled files
 *.class
 
-# IDE files
-.vscode/
-.idea/
-*.iml
+
 
 # Build directories
 bin/
@@ -17,3 +14,9 @@ tempCodeRunnerFile.java
 # OS files
 Thumbs.db
 .DS_Store
+
+
+# IDE files
+.vscode/
+.idea/
+*.iml
