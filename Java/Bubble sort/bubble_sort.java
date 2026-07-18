@@ -6,7 +6,7 @@ public class bubble_sort {
 
     public static void main(String[] args) {
         int[] arr={8,7,9,3,5,6,2,4};
-                    System.out.println("Unsorted array="+Arrays.toString(arr));
+                    System.out.println("Unsorted array ="+Arrays.toString(arr));
 
         for (int i = 0; i < arr.length; i++) {
             for (int j = 1; j <arr.length-i; j++) {
@@ -19,7 +19,7 @@ public class bubble_sort {
             }
             
         }
-            System.out.println("Sorted array="+Arrays.toString(arr));
+            System.out.println("Sorted array ="+Arrays.toString(arr));
         
     }
 }
