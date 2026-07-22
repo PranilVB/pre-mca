@@ -24,4 +24,4 @@ public class CyclicSort {
         System.out.println(Arrays.toString(arr));
     }
 
-}
+} 
