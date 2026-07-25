@@ -1,6 +1,6 @@
 public class Fibonacci {
     public static void main(String[] args) {
-       int n=6;
+       int n=4;
         System.out.println(FindFibonacci(n));;
     }  
     static int FindFibonacci(int n){
