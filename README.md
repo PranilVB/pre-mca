@@ -58,9 +58,9 @@
 * [x] Pattern Problems
 * [x] Recursive Bubble Sort
 * [x] Recursive Selection Sort
-* [ ] Bitwise Operators
-* [ ] Mathematics for DSA
-* [ ] Recursion Level 1 Revision
+* [x] Bitwise Operators
+* [x] Mathematics for DSA
+* [x] Recursion Level 1 Revision
 * [ ] Recursion Questions
 * [ ] Pattern Problems Revision
 * [ ] Subsets
