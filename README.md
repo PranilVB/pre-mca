@@ -227,22 +227,3 @@
 
 ---
 
-## 📊 Progress
-
-* **Current Phase:** Advanced Recursion
-* **Current Topic:** Bitwise Operators & Mathematics for DSA
-* **Status:** 🟡 In Progress
-
----
-
-## 🎯 Final Goal
-
-Become a **job-ready Java Backend Developer** with:
-
-* Strong Java fundamentals
-* Advanced DSA
-* Computer Science core knowledge
-* Spring Boot backend development
-* Real-world projects
-* Interview readiness
-* A consistent GitHub portfolio documenting the entire journey
