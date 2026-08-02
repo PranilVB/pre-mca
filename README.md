@@ -226,4 +226,6 @@
 * [ ] System Design Basics
 
 ---
-daily checkin 1 aug 
+daily 
+checkin 
+2
