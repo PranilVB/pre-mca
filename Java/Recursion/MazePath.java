@@ -12,10 +12,13 @@ public class MazePath {
             return;
         }
         if(r>1){
-            Path(r-1, c, p+'D');
+            Path(r-1, c, p+" Down");
+        }
+        if(r>1 && c>1){
+            Path(r-1, c-1, p+" Diagonal");
         }
         if(c>1){
-            Path(r, c-1, p+'R');
+            Path(r, c-1, p+" Right");
         }
     }
 }
