@@ -61,16 +61,16 @@
 * [x] Bitwise Operators
 * [x] Mathematics for DSA
 * [x] Recursion Level 1 Revision
-* [ ] Recursion Questions
-* [ ] Pattern Problems Revision
-* [ ] Subsets
-* [ ] Subsequences
-* [ ] String Questions
-* [ ] Permutations
-* [ ] Dice Throw
-* [ ] Letter Combinations of Phone Number
-* [ ] Backtracking
-* [ ] Maze Problems
+* [x] Recursion Questions
+* [x] Pattern Problems Revision
+* [x] Subsets
+* [x] Subsequences
+* [x] String Questions
+* [x] Permutations
+* [x] Dice Throw
+* [x] Letter Combinations of Phone Number
+* [x] Backtracking
+* [x] Maze Problems
 * [ ] N-Queens
 * [ ] N-Knights
 * [ ] Sudoku Solver
