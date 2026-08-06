@@ -71,9 +71,9 @@
 * [x] Letter Combinations of Phone Number
 * [x] Backtracking
 * [x] Maze Problems
-* [ ] N-Queens
-* [ ] N-Knights
-* [ ] Sudoku Solver
+* [x] N-Queens
+* [x] N-Knights
+* [x] Sudoku Solver
 
 #### Linked Lists
 
