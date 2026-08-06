@@ -1,6 +1,6 @@
 public class NQueensWays {
     public static void main(String[] args) {
-        int n=10;
+        int n=1;
         boolean[][] board = new boolean[n][n];
         int r = 0;
         System.out.println(QueenWays(board, r));
